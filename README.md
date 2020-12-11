@@ -1,6 +1,6 @@
 # Creates GKE Cluster
 
-Copy paste the below code
+# Copy paste the below code
 ```
 module "cluster" {
     source                      = "Alina-2013/kubernetes-engine/google"

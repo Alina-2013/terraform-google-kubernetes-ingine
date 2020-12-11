@@ -14,6 +14,7 @@ module "cluster" {
 }
 ```
 # Run
-
+```
 terraform init 
 terraform apply 
+```

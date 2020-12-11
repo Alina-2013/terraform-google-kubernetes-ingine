@@ -1,4 +1,3 @@
-# terraform-iaac-august-2020
 # Creates GKE Cluster
 
 Copy paste the below code
